@@ -100,7 +100,7 @@ export default function BlogPage() {
           </span>
           <h1 className="blog-hero__title">YoGo Ventures Journal</h1>
           <p className="blog-hero__sub">
-            Authentic craftsmanship, Ayurvedic living, and the art of conscious shopping — curated for you.
+            Authentic craftsmanships, Ayurvedic living, and the art of conscious shopping — curated for you.
           </p>
         </div>
       </section>
